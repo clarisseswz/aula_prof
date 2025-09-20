@@ -1,2 +1,3 @@
-# aula_prof
-aula de html / desenvolvimento web
+#aula_prof
+Projetos, trabalhos, atividades
+Aulas de HTML & Desenvolvimento Web
